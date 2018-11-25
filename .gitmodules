@@ -1,6 +1,6 @@
 [submodule "ecologi-k-front"]
 	path = ecologi-k-front
-	url = git@github.com:oreoa/junction-front
+	url = git@github.com:oreoa/ecologi-k-front
 [submodule "ecologi-k-back"]
 	path = ecologi-k-back
-	url = git@github.com:oreoa/junction-backend
+	url = git@github.com:oreoa/ecologi-k-back
